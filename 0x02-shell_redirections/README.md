@@ -1,1 +1,1 @@
-Write a script that prints “Hello, World”, followed by a new line to the standard output.
+regular files with a .js extension that are present in the current directory and all its subfolders
